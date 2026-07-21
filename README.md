@@ -19,30 +19,8 @@ Implements Huffman coding using a priority queue and binary tree.
 - **Test Case**: Characters: A B C D E F, Frequencies: 45 13 12 16 9 5
 - **Time Complexity**: O(n log n)
 
-## How to Compile and Run
-
-```bash
-# Compile each program
-g++ coin_change.cpp -o coin_change
-g++ fractional_knapsack.cpp -o fractional_knapsack
-g++ huffman_coding.cpp -o huffman_coding
-
-# Run each program
-./coin_change
-./fractional_knapsack
-./huffman_coding
-```
-
 ## Screenshots
-
-### Coin Change Output
-[Add screenshot here showing the output for amount 389]
-
-### Fractional Knapsack Output
-[Add screenshot here showing the knapsack solution]
-
-### Huffman Coding Output
-[Add screenshot here showing the Huffman codes and weighted path length]
+![Alt Screenshots for the programs execution on the terminal](/Screenshot_20260721_151522.png)
 
 ## Analysis
 
@@ -50,8 +28,3 @@ Each program demonstrates the greedy algorithm approach:
 - **Coin Change**: Selects the largest denomination first
 - **Fractional Knapsack**: Selects items with highest value/weight ratio
 - **Huffman Coding**: Builds optimal prefix codes by combining lowest frequency nodes
-
-## Author
-
-[Your Name]  
-CIT 3106: Design and Analysis of Algorithms
