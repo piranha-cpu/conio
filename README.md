@@ -20,7 +20,7 @@ Implements Huffman coding using a priority queue and binary tree.
 - **Time Complexity**: O(n log n)
 
 ## Screenshots
-![Alt Screenshots for the programs execution on the terminal](/Screenshot_20260721_151522.png)
+![Screenshots for the programs execution on the terminal](/Screenshot_20260721_151522.png)
 
 ## Analysis
 
